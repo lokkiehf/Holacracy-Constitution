@@ -3,7 +3,7 @@
 ##Definition of Core Roles
 
 
-###Lead Link
+####Lead Link
 
 **Purpose:**
 _The Lead Link holds the Purpose of the overall Circle._
@@ -23,7 +23,7 @@ _The Lead Link also holds all un-delegated Circle-level Domains and Accountabili
 
 
 
-###Rep Link
+####Rep Link
 
 **Purpose:** _Within the Super-Circle, the Rep Link holds the Purpose of the Sub-Circle; within the Sub-Circle, the Rep Link’s Purpose is:_ Tensions relevant to process in the Super-Circle channeled out and resolved.
 
@@ -34,7 +34,7 @@ _The Lead Link also holds all un-delegated Circle-level Domains and Accountabili
 - Providing visibility to the Super-Circle into the health of the Sub-Circle, including reporting on any metrics or checklist items assigned to the whole Sub-Circle
 
 
-###Facilitator
+####Facilitator
 
 **Purpose:** Circle governance and operational practices aligned with the Constitution.
 
@@ -44,7 +44,7 @@ _The Lead Link also holds all un-delegated Circle-level Domains and Accountabili
 - Auditing the meetings and records of Sub-Circles as needed, and declaring a Process Breakdown upon discovering a pattern of behavior that conflicts with the rules of the Constitution
 
 
-###Secretary
+####Secretary
 
 **Purpose:** Steward and stabilize the Circle’s formal records and record-keeping process.
 
